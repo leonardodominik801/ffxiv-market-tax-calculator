@@ -3,6 +3,8 @@ FFXIV Market Tax Calculator
 
 A simple, interactive calculator for calculating FFXIV market tax rates. This tool allows users to calculate how much a seller will receive and how much a buyer will pay based on customizable seller and buyer tax rates. Built with love by Ul'dahn lalafells from Cactuar - Vurk, Snik, Scoop, and Poocs.
 
+Check out the site live at: https://leonardodominik801.github.io/ffxiv-market-tax-calculator/
+
 Features
 --------
 - **Interactive input**: Adjust the listing price, seller tax, and buyer tax to instantly see updated results.
